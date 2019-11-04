@@ -1,6 +1,6 @@
 # Selenium-Python-Twitter-Bot-Following
-Python Selenium kütüphanesi ile takip ettiğin kullanıcıları diziye &amp; dosyaya kayıt etme.
-Fonksiyonun kullanımı için Login koşulu vardır.
+Python Selenium kütüphanesi ile takip ettiğin kullanıcıları diziye &amp; dosyaya kayıt etme. \n
+Fonksiyonun kullanımı için Login koşulu vardır. \n
 Tarayıcı (driver) default ingilizce ayarlarda başlatılmalır.
 Login olan kullanıcı fonksiyona parametre olarak giden user'ın  Takipci listesine driver.get() ile erişir.
 notFollowing dizisi içerisinde takipci öner kısımdaki 3 öneriyi tutar.
